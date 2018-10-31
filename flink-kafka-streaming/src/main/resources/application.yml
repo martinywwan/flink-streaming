@@ -1,0 +1,5 @@
+kafka:
+  bootStrapServer: #list of hostname:port separated by comma of the Kafka instances
+  topic-name: #topic name to subscribe from
+  group-id: #consumer group id
+  auto-offset-reset: #auto offset reset

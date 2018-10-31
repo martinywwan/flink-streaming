@@ -8,8 +8,10 @@
     <artifactId>flink-streaming</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>flink-kafka-streaming</module>
+        <module>kafka-publisher</module>
     </modules>
 
     <properties>
